@@ -1,0 +1,24 @@
+{
+  "slug": "reverse-linked-list",
+  "id": null,
+  "title": "Reverse Linked List",
+  "difficulty": "Medium",
+  "topics": [
+    "General"
+  ],
+  "url": "https://leetcode.com/problems/reverse-linked-list/",
+  "firstSolved": 1769524855643,
+  "lastReviewed": 1769524855643,
+  "nextReview": 1769576400000,
+  "interval": 1,
+  "easeFactor": 2.5,
+  "reviewCount": 0,
+  "lapses": 0,
+  "ratings": [
+    {
+      "date": 1769524855643,
+      "quality": 2
+    }
+  ],
+  "syncedAt": 1769524857303
+}
