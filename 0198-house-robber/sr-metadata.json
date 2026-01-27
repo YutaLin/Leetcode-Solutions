@@ -1,0 +1,25 @@
+{
+  "slug": "house-robber",
+  "id": "198",
+  "title": "House Robber",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "url": "https://leetcode.com/problems/house-robber/",
+  "firstSolved": 1769555785181,
+  "lastReviewed": 1769555785181,
+  "nextReview": 1769576400000,
+  "interval": 1,
+  "easeFactor": 2.5,
+  "reviewCount": 0,
+  "lapses": 0,
+  "ratings": [
+    {
+      "date": 1769555785181,
+      "quality": 2
+    }
+  ],
+  "syncedAt": 1769555786503
+}
