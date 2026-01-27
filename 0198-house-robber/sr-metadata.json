@@ -9,17 +9,21 @@
   ],
   "url": "https://leetcode.com/problems/house-robber/",
   "firstSolved": 1769555785181,
-  "lastReviewed": 1769555785181,
+  "lastReviewed": 1769555847481,
   "nextReview": 1769576400000,
   "interval": 1,
-  "easeFactor": 2.5,
-  "reviewCount": 0,
-  "lapses": 0,
+  "easeFactor": 2.3,
+  "reviewCount": 1,
+  "lapses": 1,
   "ratings": [
     {
       "date": 1769555785181,
       "quality": 2
+    },
+    {
+      "date": 1769555847481,
+      "quality": 0
     }
   ],
-  "syncedAt": 1769555786503
+  "syncedAt": 1769555848057
 }
