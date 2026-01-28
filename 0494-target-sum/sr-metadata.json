@@ -10,17 +10,21 @@
   ],
   "url": "https://leetcode.com/problems/target-sum/",
   "firstSolved": 1769559230839,
-  "lastReviewed": 1769559230839,
-  "nextReview": 1769576400000,
-  "interval": 1,
+  "lastReviewed": 1769561870748,
+  "nextReview": 1770008400000,
+  "interval": 6,
   "easeFactor": 2.5,
-  "reviewCount": 0,
+  "reviewCount": 1,
   "lapses": 0,
   "ratings": [
     {
       "date": 1769559230839,
       "quality": 1
+    },
+    {
+      "date": 1769561870748,
+      "quality": 2
     }
   ],
-  "syncedAt": 1769559232989
+  "syncedAt": 1769561871337
 }
