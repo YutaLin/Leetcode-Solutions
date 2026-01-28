@@ -1,0 +1,27 @@
+{
+  "slug": "group-anagrams",
+  "id": "49",
+  "title": "Group Anagrams",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Sorting"
+  ],
+  "url": "https://leetcode.com/problems/group-anagrams/",
+  "firstSolved": 1769564329054,
+  "lastReviewed": 1769564329054,
+  "nextReview": 1769576400000,
+  "interval": 1,
+  "easeFactor": 2.5,
+  "reviewCount": 0,
+  "lapses": 0,
+  "ratings": [
+    {
+      "date": 1769564329054,
+      "quality": 1
+    }
+  ],
+  "syncedAt": 1769564330302
+}
