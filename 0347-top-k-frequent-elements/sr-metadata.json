@@ -1,0 +1,31 @@
+{
+  "slug": "top-k-frequent-elements",
+  "id": "347",
+  "title": "Top K Frequent Elements",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Bucket Sort",
+    "Counting",
+    "Quickselect"
+  ],
+  "url": "https://leetcode.com/problems/top-k-frequent-elements/",
+  "firstSolved": 1769565650454,
+  "lastReviewed": 1769565650454,
+  "nextReview": 1769576400000,
+  "interval": 1,
+  "easeFactor": 2.5,
+  "reviewCount": 0,
+  "lapses": 0,
+  "ratings": [
+    {
+      "date": 1769565650454,
+      "quality": 2
+    }
+  ],
+  "syncedAt": 1769565651908
+}
