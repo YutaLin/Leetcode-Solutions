@@ -11,17 +11,21 @@
   ],
   "url": "https://leetcode.com/problems/group-anagrams/",
   "firstSolved": 1769564329054,
-  "lastReviewed": 1769564329054,
-  "nextReview": 1769576400000,
-  "interval": 1,
+  "lastReviewed": 1769814560255,
+  "nextReview": 1770267600000,
+  "interval": 6,
   "easeFactor": 2.5,
-  "reviewCount": 0,
+  "reviewCount": 1,
   "lapses": 0,
   "ratings": [
     {
       "date": 1769564329054,
       "quality": 1
+    },
+    {
+      "date": 1769814560255,
+      "quality": 2
     }
   ],
-  "syncedAt": 1769564330302
+  "syncedAt": 1769814560950
 }
