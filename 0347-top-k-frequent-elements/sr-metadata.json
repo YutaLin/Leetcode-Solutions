@@ -15,17 +15,21 @@
   ],
   "url": "https://leetcode.com/problems/top-k-frequent-elements/",
   "firstSolved": 1769565650454,
-  "lastReviewed": 1769565650454,
-  "nextReview": 1769576400000,
-  "interval": 1,
-  "easeFactor": 2.5,
-  "reviewCount": 0,
+  "lastReviewed": 1769815261558,
+  "nextReview": 1769922000000,
+  "interval": 2,
+  "easeFactor": 2.35,
+  "reviewCount": 1,
   "lapses": 0,
   "ratings": [
     {
       "date": 1769565650454,
       "quality": 2
+    },
+    {
+      "date": 1769815261558,
+      "quality": 1
     }
   ],
-  "syncedAt": 1769565651908
+  "syncedAt": 1769815262273
 }
