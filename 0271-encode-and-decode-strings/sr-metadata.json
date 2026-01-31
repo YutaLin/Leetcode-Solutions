@@ -1,0 +1,26 @@
+{
+  "slug": "encode-and-decode-strings",
+  "id": "271",
+  "title": "Encode and Decode Strings",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "String",
+    "Design"
+  ],
+  "url": "https://leetcode.com/problems/encode-and-decode-strings/",
+  "firstSolved": 1769819232555,
+  "lastReviewed": 1769819232555,
+  "nextReview": 1769835600000,
+  "interval": 1,
+  "easeFactor": 2.5,
+  "reviewCount": 0,
+  "lapses": 0,
+  "ratings": [
+    {
+      "date": 1769819232555,
+      "quality": 1
+    }
+  ],
+  "syncedAt": 1769819233780
+}
