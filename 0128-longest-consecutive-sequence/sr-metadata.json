@@ -1,0 +1,26 @@
+{
+  "slug": "longest-consecutive-sequence",
+  "id": "128",
+  "title": "Longest Consecutive Sequence",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Union-Find"
+  ],
+  "url": "https://leetcode.com/problems/longest-consecutive-sequence/",
+  "firstSolved": 1769820845898,
+  "lastReviewed": 1769820845898,
+  "nextReview": 1769835600000,
+  "interval": 1,
+  "easeFactor": 2.5,
+  "reviewCount": 0,
+  "lapses": 0,
+  "ratings": [
+    {
+      "date": 1769820845898,
+      "quality": 1
+    }
+  ],
+  "syncedAt": 1769820847356
+}
