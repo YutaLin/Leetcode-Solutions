@@ -1,0 +1,25 @@
+{
+  "slug": "valid-parentheses",
+  "id": "20",
+  "title": "Valid Parentheses",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Stack"
+  ],
+  "url": "https://leetcode.com/problems/valid-parentheses/",
+  "firstSolved": 1775267585032,
+  "lastReviewed": 1775267585032,
+  "nextReview": 1775275200000,
+  "interval": 1,
+  "easeFactor": 2.5,
+  "reviewCount": 0,
+  "lapses": 0,
+  "ratings": [
+    {
+      "date": 1775267585032,
+      "quality": 2
+    }
+  ],
+  "syncedAt": 1775267586383
+}
