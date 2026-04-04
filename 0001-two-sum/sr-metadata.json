@@ -1,0 +1,25 @@
+{
+  "slug": "two-sum",
+  "id": "1",
+  "title": "Two Sum",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "url": "https://leetcode.com/problems/two-sum/",
+  "firstSolved": 1775264433262,
+  "lastReviewed": 1775264433262,
+  "nextReview": 1775275200000,
+  "interval": 1,
+  "easeFactor": 2.5,
+  "reviewCount": 0,
+  "lapses": 0,
+  "ratings": [
+    {
+      "date": 1775264433262,
+      "quality": 2
+    }
+  ],
+  "syncedAt": 1775264434604
+}
