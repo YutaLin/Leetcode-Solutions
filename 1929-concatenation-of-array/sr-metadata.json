@@ -1,0 +1,25 @@
+{
+  "slug": "concatenation-of-array",
+  "id": "1929",
+  "title": "Concatenation of Array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Simulation"
+  ],
+  "url": "https://leetcode.com/problems/concatenation-of-array/",
+  "firstSolved": 1782068925260,
+  "lastReviewed": 1782068925261,
+  "nextReview": 1782100800000,
+  "interval": 1,
+  "easeFactor": 2.5,
+  "reviewCount": 0,
+  "lapses": 0,
+  "ratings": [
+    {
+      "date": 1782068925261,
+      "quality": 2
+    }
+  ],
+  "syncedAt": 1782068926797
+}
