@@ -1,0 +1,25 @@
+{
+  "slug": "valid-palindrome",
+  "id": "125",
+  "title": "Valid Palindrome",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "url": "https://leetcode.com/problems/valid-palindrome/",
+  "firstSolved": 1782066640319,
+  "lastReviewed": 1782066640319,
+  "nextReview": 1782100800000,
+  "interval": 1,
+  "easeFactor": 2.5,
+  "reviewCount": 0,
+  "lapses": 0,
+  "ratings": [
+    {
+      "date": 1782066640319,
+      "quality": 2
+    }
+  ],
+  "syncedAt": 1782066641985
+}
