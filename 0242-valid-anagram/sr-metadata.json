@@ -1,0 +1,26 @@
+{
+  "slug": "valid-anagram",
+  "id": "242",
+  "title": "Valid Anagram",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Sorting"
+  ],
+  "url": "https://leetcode.com/problems/valid-anagram/",
+  "firstSolved": 1782181775969,
+  "lastReviewed": 1782181775969,
+  "nextReview": 1782360000000,
+  "interval": 3,
+  "easeFactor": 2.6,
+  "reviewCount": 0,
+  "lapses": 0,
+  "ratings": [
+    {
+      "date": 1782181775969,
+      "quality": 3
+    }
+  ],
+  "syncedAt": 1782181778310
+}
