@@ -1,0 +1,26 @@
+{
+  "slug": "contains-duplicate",
+  "id": "217",
+  "title": "Contains Duplicate",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "url": "https://leetcode.com/problems/contains-duplicate/",
+  "firstSolved": 1782180256619,
+  "lastReviewed": 1782180256619,
+  "nextReview": 1782187200000,
+  "interval": 1,
+  "easeFactor": 2.5,
+  "reviewCount": 0,
+  "lapses": 0,
+  "ratings": [
+    {
+      "date": 1782180256619,
+      "quality": 2
+    }
+  ],
+  "syncedAt": 1782180258386
+}
