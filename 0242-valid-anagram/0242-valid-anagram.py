@@ -1,13 +1,16 @@
-class Solution:
-    def isAnagram(self, s: str, t: str) -> bool:
-        cur = [0] * 26
-        for c in s:
-            cur[ord(c) - ord('a')] += 1
-        for c in t:
-            cur[ord(c) - ord('a')] -= 1
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
+        cur = [0] * 26
+        for c in s:
+            cur[ord(c) - ord('a')] += 1
+        for c in t:
+            if cur[ord(c) - ord('a')] == 0:
 
-        for c in cur:
-            if c != 0:
-                return False
+            cur[ord(c) - ord('a')] -= 
 
-        return True
+        if len(s) != len(t):
+
+            return False
+
+                return False
+        return True
