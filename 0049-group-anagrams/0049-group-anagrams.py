@@ -1,12 +1,17 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         
-        dic = defaultdict(list)
-        for s in strs:
-            char_list = [0] * 26
-            for c in s:
-                char_list[ord(c) - ord('a')] += 1
-
-            dic[tuple(char_list)].append(s)
+        key_dic = {}
         
-        return list(dic.values())
+        for string in strs:
+            key = [0] * 26
+            for c in string:
+                key[ord(c) - ord('a')] += 1
+            str_key = str(key)
+            if str_key not in key_dic:
+                key_dic[str_key] = [string]
+            else:
+                key_dic[str_key].append(string)
+
+        return list(key_dic.values())
+
