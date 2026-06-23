@@ -10,17 +10,21 @@
   ],
   "url": "https://leetcode.com/problems/valid-anagram/",
   "firstSolved": 1782181775969,
-  "lastReviewed": 1782181775969,
-  "nextReview": 1782360000000,
-  "interval": 3,
-  "easeFactor": 2.6,
-  "reviewCount": 0,
-  "lapses": 0,
+  "lastReviewed": 1782182032435,
+  "nextReview": 1782187200000,
+  "interval": 1,
+  "easeFactor": 2.4,
+  "reviewCount": 1,
+  "lapses": 1,
   "ratings": [
     {
       "date": 1782181775969,
       "quality": 3
+    },
+    {
+      "date": 1782182032435,
+      "quality": 0
     }
   ],
-  "syncedAt": 1782181778310
+  "syncedAt": 1782182033429
 }
