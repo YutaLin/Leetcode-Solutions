@@ -10,17 +10,21 @@
   ],
   "url": "https://leetcode.com/problems/contains-duplicate/",
   "firstSolved": 1782180256619,
-  "lastReviewed": 1782180256619,
-  "nextReview": 1782187200000,
-  "interval": 1,
-  "easeFactor": 2.5,
-  "reviewCount": 0,
+  "lastReviewed": 1782866607879,
+  "nextReview": 1783310400000,
+  "interval": 6,
+  "easeFactor": 2.65,
+  "reviewCount": 1,
   "lapses": 0,
   "ratings": [
     {
       "date": 1782180256619,
       "quality": 2
+    },
+    {
+      "date": 1782866607879,
+      "quality": 3
     }
   ],
-  "syncedAt": 1782180258386
+  "syncedAt": 1782866608770
 }
