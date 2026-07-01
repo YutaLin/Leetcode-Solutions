@@ -9,17 +9,21 @@
   ],
   "url": "https://leetcode.com/problems/concatenation-of-array/",
   "firstSolved": 1782068925260,
-  "lastReviewed": 1782068925261,
-  "nextReview": 1782100800000,
-  "interval": 1,
-  "easeFactor": 2.5,
-  "reviewCount": 0,
+  "lastReviewed": 1782865880264,
+  "nextReview": 1783310400000,
+  "interval": 6,
+  "easeFactor": 2.65,
+  "reviewCount": 1,
   "lapses": 0,
   "ratings": [
     {
       "date": 1782068925261,
       "quality": 2
+    },
+    {
+      "date": 1782865880264,
+      "quality": 3
     }
   ],
-  "syncedAt": 1782068926797
+  "syncedAt": 1782865881276
 }
