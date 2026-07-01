@@ -9,17 +9,21 @@
   ],
   "url": "https://leetcode.com/problems/valid-palindrome/",
   "firstSolved": 1782066640319,
-  "lastReviewed": 1782066640319,
-  "nextReview": 1782100800000,
-  "interval": 1,
-  "easeFactor": 2.5,
-  "reviewCount": 0,
+  "lastReviewed": 1782866329842,
+  "nextReview": 1783310400000,
+  "interval": 6,
+  "easeFactor": 2.65,
+  "reviewCount": 1,
   "lapses": 0,
   "ratings": [
     {
       "date": 1782066640319,
       "quality": 2
+    },
+    {
+      "date": 1782866329842,
+      "quality": 3
     }
   ],
-  "syncedAt": 1782066641985
+  "syncedAt": 1782866331159
 }
