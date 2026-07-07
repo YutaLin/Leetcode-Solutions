@@ -1,0 +1,28 @@
+{
+  "slug": "number-of-islands",
+  "id": "200",
+  "title": "Number of Islands",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix"
+  ],
+  "url": "https://leetcode.com/problems/number-of-islands/",
+  "firstSolved": 1783461650131,
+  "lastReviewed": 1783461650131,
+  "nextReview": 1783483200000,
+  "interval": 1,
+  "easeFactor": 2.5,
+  "reviewCount": 0,
+  "lapses": 0,
+  "ratings": [
+    {
+      "date": 1783461650131,
+      "quality": 1
+    }
+  ],
+  "syncedAt": 1783461651096
+}
