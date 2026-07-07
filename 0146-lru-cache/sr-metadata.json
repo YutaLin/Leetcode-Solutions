@@ -1,0 +1,27 @@
+{
+  "slug": "lru-cache",
+  "id": "146",
+  "title": "LRU Cache",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Linked List",
+    "Design",
+    "Doubly-Linked List"
+  ],
+  "url": "https://leetcode.com/problems/lru-cache/",
+  "firstSolved": 1783459724566,
+  "lastReviewed": 1783459724566,
+  "nextReview": 1783483200000,
+  "interval": 1,
+  "easeFactor": 2.5,
+  "reviewCount": 0,
+  "lapses": 0,
+  "ratings": [
+    {
+      "date": 1783459724566,
+      "quality": 2
+    }
+  ],
+  "syncedAt": 1783459726005
+}
