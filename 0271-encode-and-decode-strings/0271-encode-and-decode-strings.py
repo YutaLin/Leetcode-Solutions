@@ -1,8 +1,7 @@
 class Codec:
     def encode(self, strs: List[str]) -> str:
         sizes = [str(len(s)) for s in strs]
-        decode_str =  ','.join(sizes) + '#' + ''.join(strs)
-        return decode_str
+        return ','.join(sizes) + '#' + ''.join(strs)
         
 
     def decode(self, s: str) -> List[str]:
@@ -11,21 +10,23 @@ class Codec:
         
         find_idx = s.find('#')
         size_string = s[:find_idx]
-        data_string = s[find_idx + 1:]
-        
-        if not size_string:
-            return [""] if find_idx != -1 else []
+        data_string = s[find_idx+1:]
 
-        ans = []
+        if not size_string:
+            return [] if find_idx == -1 else ['']
+
         sizes = size_string.split(',')
-        i = find_idx + 1
+        idx = 0
+        ans = []
         for size in sizes:
-            ans.append(s[i:i+int(size)])
-            i += int(size)
-        
+            ans.append(data_string[idx:idx+int(size)])
+            idx += int(size)
         return ans
-            
         
+        
+## ["abc", "d,f"] => "3,3#abcd,f" => ["abc", "d,f"]
+## [""] => "0#"
+
 
 
 # Your Codec object will be instantiated and called as such:
