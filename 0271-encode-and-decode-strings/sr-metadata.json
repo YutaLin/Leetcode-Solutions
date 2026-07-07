@@ -10,17 +10,21 @@
   ],
   "url": "https://leetcode.com/problems/encode-and-decode-strings/",
   "firstSolved": 1769819232555,
-  "lastReviewed": 1769819232555,
-  "nextReview": 1769835600000,
-  "interval": 1,
-  "easeFactor": 2.5,
-  "reviewCount": 0,
+  "lastReviewed": 1783457548314,
+  "nextReview": 1783569600000,
+  "interval": 2,
+  "easeFactor": 2.35,
+  "reviewCount": 1,
   "lapses": 0,
   "ratings": [
     {
       "date": 1769819232555,
       "quality": 1
+    },
+    {
+      "date": 1783457548314,
+      "quality": 1
     }
   ],
-  "syncedAt": 1769819233780
+  "syncedAt": 1783457549216
 }
