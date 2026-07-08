@@ -1,0 +1,26 @@
+{
+  "slug": "add-two-numbers",
+  "id": "2",
+  "title": "Add Two Numbers",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List",
+    "Math",
+    "Recursion"
+  ],
+  "url": "https://leetcode.com/problems/add-two-numbers/",
+  "firstSolved": 1783547753960,
+  "lastReviewed": 1783547753960,
+  "nextReview": 1783569600000,
+  "interval": 1,
+  "easeFactor": 2.5,
+  "reviewCount": 0,
+  "lapses": 0,
+  "ratings": [
+    {
+      "date": 1783547753960,
+      "quality": 2
+    }
+  ],
+  "syncedAt": 1783547755609
+}
