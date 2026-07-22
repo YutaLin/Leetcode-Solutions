@@ -1,0 +1,27 @@
+{
+  "slug": "invert-binary-tree",
+  "id": "226",
+  "title": "Invert Binary Tree",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "url": "https://leetcode.com/problems/invert-binary-tree/",
+  "firstSolved": 1784743661594,
+  "lastReviewed": 1784743661594,
+  "nextReview": 1784952000000,
+  "interval": 3,
+  "easeFactor": 2.6,
+  "reviewCount": 0,
+  "lapses": 0,
+  "ratings": [
+    {
+      "date": 1784743661594,
+      "quality": 3
+    }
+  ],
+  "syncedAt": 1784743663806
+}
