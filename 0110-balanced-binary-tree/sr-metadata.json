@@ -1,0 +1,26 @@
+{
+  "slug": "balanced-binary-tree",
+  "id": "110",
+  "title": "Balanced Binary Tree",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "url": "https://leetcode.com/problems/balanced-binary-tree/",
+  "firstSolved": 1784747002320,
+  "lastReviewed": 1784747002321,
+  "nextReview": 1784779200000,
+  "interval": 1,
+  "easeFactor": 2.5,
+  "reviewCount": 0,
+  "lapses": 0,
+  "ratings": [
+    {
+      "date": 1784747002321,
+      "quality": 1
+    }
+  ],
+  "syncedAt": 1784747003636
+}
