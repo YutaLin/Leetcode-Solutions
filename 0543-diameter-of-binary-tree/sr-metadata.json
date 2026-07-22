@@ -1,0 +1,26 @@
+{
+  "slug": "diameter-of-binary-tree",
+  "id": "543",
+  "title": "Diameter of Binary Tree",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "url": "https://leetcode.com/problems/diameter-of-binary-tree/",
+  "firstSolved": 1784745947330,
+  "lastReviewed": 1784745947330,
+  "nextReview": 1784779200000,
+  "interval": 1,
+  "easeFactor": 2.5,
+  "reviewCount": 0,
+  "lapses": 0,
+  "ratings": [
+    {
+      "date": 1784745947331,
+      "quality": 2
+    }
+  ],
+  "syncedAt": 1784745949249
+}
