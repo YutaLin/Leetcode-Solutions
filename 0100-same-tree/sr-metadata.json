@@ -11,17 +11,21 @@
   ],
   "url": "https://leetcode.com/problems/same-tree/",
   "firstSolved": 1769543293931,
-  "lastReviewed": 1769543293931,
-  "nextReview": 1769576400000,
-  "interval": 1,
-  "easeFactor": 2.5,
-  "reviewCount": 0,
+  "lastReviewed": 1784838738339,
+  "nextReview": 1785297600000,
+  "interval": 6,
+  "easeFactor": 2.65,
+  "reviewCount": 1,
   "lapses": 0,
   "ratings": [
     {
       "date": 1769543293931,
       "quality": 2
+    },
+    {
+      "date": 1784838738339,
+      "quality": 3
     }
   ],
-  "syncedAt": 1769543294734
+  "syncedAt": 1784838739480
 }
