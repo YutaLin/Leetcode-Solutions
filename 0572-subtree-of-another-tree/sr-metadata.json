@@ -1,0 +1,28 @@
+{
+  "slug": "subtree-of-another-tree",
+  "id": "572",
+  "title": "Subtree of Another Tree",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "String Matching",
+    "Binary Tree",
+    "Hash Function"
+  ],
+  "url": "https://leetcode.com/problems/subtree-of-another-tree/",
+  "firstSolved": 1784840938031,
+  "lastReviewed": 1784840938031,
+  "nextReview": 1784865600000,
+  "interval": 1,
+  "easeFactor": 2.5,
+  "reviewCount": 0,
+  "lapses": 0,
+  "ratings": [
+    {
+      "date": 1784840938031,
+      "quality": 2
+    }
+  ],
+  "syncedAt": 1784840939743
+}
